@@ -17,6 +17,8 @@
 
 - [Introduction To JavaScript Unit Testing](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
 - [How To Write High Quality Unit Tests](http://www.marclittlemore.com/how-to-write-high-quality-unit-tests/)
+- [Test Double](https://www.martinfowler.com/bliki/TestDouble.html)
+- [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [Migrating To Jest](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.lgwnxihkn)
 - [5 Questions Every Unit Test Must Answer](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.22w7tm5rq)
 - [How To Unit Test Express Routes](http://www.marclittlemore.com/how-to-unit-test-express-routes/)
@@ -25,6 +27,8 @@
 - [Why I Use Tape Instead Of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.uhlgy4nwu)
 - [Where To Put Code In Mocha/Jasmine Tests](https://medium.com/@kentcdodds/where-to-put-code-in-mocha-jasmine-tests-24aade62fd7e#.o6ma53itg)
 - [React Unit Testing With Mocha And Enzyme](https://medium.freecodecamp.com/react-unit-testing-with-mocha-and-enzyme-77d18b6875cb#.g5vbt63j6)
+- [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
+- [Testing Asynchronous JavaScript](https://martinfowler.com/articles/asyncJS.html)
 
 ## Tools
 
