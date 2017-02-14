@@ -37,6 +37,7 @@
 ## Videos
 
 - [React + Ava Workshop](https://www.youtube.com/watch?v=UmDNx06472I&feature=youtu.be)
+- [Introduction To Jest Testing Framework](https://www.youtube.com/watch?v=tvy0bSgwtTo)
 
 ## Tips
 
