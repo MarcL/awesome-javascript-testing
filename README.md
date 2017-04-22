@@ -39,6 +39,7 @@
 - [React + Ava Workshop](https://www.youtube.com/watch?v=UmDNx06472I&feature=youtu.be)
 - [Introduction To Jest Testing Framework](https://www.youtube.com/watch?v=tvy0bSgwtTo)
 - [Test JavaScript with Jest (egghead.io)](https://egghead.io/lessons/javascript-test-javascript-with-jest)
+- [Testing JavaScript Applications Workshop](https://www.youtube.com/watch?v=DdqiXcYDv-8) by [Kent C Dodds](https://github.com/kentcdodds)
 
 ## Tips
 
