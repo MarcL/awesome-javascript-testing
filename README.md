@@ -60,7 +60,8 @@
 - [Jest](https://facebook.github.io/jest/)
 - [Ava](https://github.com/avajs/ava)
 - [Tape](https://github.com/substack/tape)
-- [Enzyme]()
+- [TestDouble](https://github.com/testdouble/testdouble.js)
+- [Enzyme](https://github.com/airbnb/enzyme/)
 - [Supertest](https://github.com/visionmedia/supertest)
 - [Nock](https://github.com/node-nock/nock)
 
