@@ -29,6 +29,7 @@
 - [React Unit Testing With Mocha And Enzyme](https://medium.freecodecamp.com/react-unit-testing-with-mocha-and-enzyme-77d18b6875cb#.g5vbt63j6)
 - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 - [Testing Asynchronous JavaScript](https://martinfowler.com/articles/asyncJS.html)
+- [JavaScript Testing Tools Showdown: Sinon.js vs TestDouble.js](https://gist.github.com/searls/646d68bfb284af3956a294b55f14bad9)
 
 ## Tools
 
