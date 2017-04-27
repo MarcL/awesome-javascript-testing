@@ -30,6 +30,7 @@
 - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 - [Testing Asynchronous JavaScript](https://martinfowler.com/articles/asyncJS.html)
 - [JavaScript Testing Tools Showdown: Sinon.js vs TestDouble.js](https://gist.github.com/searls/646d68bfb284af3956a294b55f14bad9)
+- [Complete Guide To Testing JavaScript In 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
 
 ## Tools
 
