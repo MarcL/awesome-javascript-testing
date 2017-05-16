@@ -57,7 +57,6 @@
 - [Mocha](https://mochajs.org/)
 - [Sinon](http://sinonjs.org/docs/)
 - [Chai](http://chaijs.com/api/)
-- [Sinon-as-promised](https://github.com/bendrucker/sinon-as-promised)
 - [Chai-as-promised](https://github.com/domenic/chai-as-promised)
 - [Jest](https://facebook.github.io/jest/)
 - [Ava](https://github.com/avajs/ava)
