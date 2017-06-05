@@ -32,10 +32,7 @@
 - [JavaScript Testing Tools Showdown: Sinon.js vs TestDouble.js](https://gist.github.com/searls/646d68bfb284af3956a294b55f14bad9)
 - [Complete Guide To Testing JavaScript In 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
 - [How To Structure Your Tests](https://codeutopia.net/blog/2017/05/15/quick-javascript-testing-tip-how-to-structure-your-tests/)
-
-## Tools
-
--
+- [Migrating From Mocha To Jest](https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e)
 
 ## Videos
 
@@ -44,15 +41,7 @@
 - [Test JavaScript with Jest (egghead.io)](https://egghead.io/lessons/javascript-test-javascript-with-jest)
 - [Testing JavaScript Applications Workshop](https://www.youtube.com/watch?v=DdqiXcYDv-8) by [Kent C Dodds](https://github.com/kentcdodds)
 
-## Tips
-
--
-
-## FAQ
-
--
-
-## Documentation
+## Test Library Documentation
 
 - [Mocha](https://mochajs.org/)
 - [Sinon](http://sinonjs.org/docs/)
