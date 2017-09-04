@@ -15,6 +15,7 @@
 
 ## Articles
 
+- [JavaScript Testing for Beginners Course](https://www.marclittlemore.com/courses/javascript-testing-beginners-course/?signup=github-mini-course)
 - [Introduction To JavaScript Unit Testing](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
 - [How To Write High Quality Unit Tests](http://www.marclittlemore.com/how-to-write-high-quality-unit-tests/)
 - [Test Double](https://www.martinfowler.com/bliki/TestDouble.html)
